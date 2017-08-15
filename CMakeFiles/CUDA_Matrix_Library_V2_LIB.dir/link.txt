@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11  -shared -Wl,-soname,libCUDA_Matrix_Library_V2_LIB.so -o libCUDA_Matrix_Library_V2_LIB.so CMakeFiles/CUDA_Matrix_Library_V2_LIB.dir/cuda/CUDA_Matrix_Library_V2_LIB_generated_gpuMemoryManager.cu.o /usr/local/cuda-7.5/lib64/libcudart.so /usr/local/cuda-7.5/lib64/libcufft.so -Wl,-rpath,/usr/local/cuda-7.5/lib64 

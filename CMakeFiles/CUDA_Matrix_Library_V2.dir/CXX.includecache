@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/devjeetroy/Development/CUDA Matrix Library V2/cpuMatrix.cpp
+algorithm
+-
+iostream
+-
+stdexcept
+-
+
+/home/devjeetroy/Development/CUDA Matrix Library V2/cuda/TestCUDA.h
+
+/home/devjeetroy/Development/CUDA Matrix Library V2/main.cpp
+iostream
+-
+cuda/TestCUDA.h
+/home/devjeetroy/Development/CUDA Matrix Library V2/cuda/TestCUDA.h
+
+/home/devjeetroy/Development/CUDA Matrix Library V2/mnist_loader.cpp
+mnist_loader.h
+/home/devjeetroy/Development/CUDA Matrix Library V2/mnist_loader.h
+string
+-
+iostream
+-
+fstream
+-
+cpuMatrix.cpp
+/home/devjeetroy/Development/CUDA Matrix Library V2/cpuMatrix.cpp
+
+/home/devjeetroy/Development/CUDA Matrix Library V2/mnist_loader.h
+cpuMatrix.cpp
+/home/devjeetroy/Development/CUDA Matrix Library V2/cpuMatrix.cpp
+string
+-
+
+/home/devjeetroy/Development/CUDA Matrix Library V2/utilities.cpp
+utilities.h
+/home/devjeetroy/Development/CUDA Matrix Library V2/utilities.h
+
+/home/devjeetroy/Development/CUDA Matrix Library V2/utilities.h
+cpuMatrix.cpp
+/home/devjeetroy/Development/CUDA Matrix Library V2/cpuMatrix.cpp
+

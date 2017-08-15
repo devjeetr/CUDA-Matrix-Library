@@ -1,0 +1,2 @@
+/home/devjeetroy/Development/CUDA Matrix Library V2/CMakeFiles/CUDA_Matrix_Library_V2.dir
+/home/devjeetroy/Development/CUDA Matrix Library V2/CMakeFiles/CUDA_Matrix_Library_V2_LIB.dir
